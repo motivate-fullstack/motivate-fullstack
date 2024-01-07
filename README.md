@@ -1,4 +1,3 @@
-### Hi there 👋 
 
 <h2 align="center">⚡A Self-Motivated FullStack Software Engineer⚡</h2>
 
@@ -187,16 +186,6 @@
 </p>
 <hr>
 <br>
-
-
 <br/>
-
-![Magnus Masculus's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperButterfly&theme=radical&hide_border=true&show_icons=true)
-
-
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=SuperButterfly&column=7&theme=onedark"/>
-</p>
-
 
 
