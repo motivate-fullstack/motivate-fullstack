@@ -6,7 +6,10 @@
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 </p>
 
-<h4 align="center">I am a World's Top Full Stack Developer.. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, Django, Flask, PHP, Solidity, Rust, Golang, Ethereum, Vue, Nuxt, Qusasar, React JS, React-Native, Next, Node, TypeScript, etc.</h4>
+<h4>🌱 As a dedicated, collaborative and highly skilled Software Engineer, I have accumulated much experience conducting web application development using the frontend and backend frameworks.</h4>
+<h4>🔭 I’m currently learning PowerBI, Kafka</h4>
+<hr>
+
 
 #### ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Selenium-blue) ![](https://img.shields.io/badge/BeautifulSoup-blue) ![](https://img.shields.io/badge/Pandas-blue) ![](https://img.shields.io/badge/Numpy-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Typescript-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Database-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Ethers.js-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Tezos-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Smart%Contract-blue) ![](https://img.shields.io/badge/Golang-blue) ![](https://img.shields.io/badge/Rust-blue) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue)
 
@@ -20,9 +23,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=SuperButterfly&column=7&theme=onedark"/>
 </p>
 
-<h3 align="center">⚡A Self-Motivated FullStack Software Engineer⚡</h3>
-<hr>
-<h4>🌱 As a dedicated, collaborative and highly skilled Software Engineer, I have accumulated much experience conducting web application development using the frontend and backend frameworks.</h4>
-<h4>🔭 I’m currently learning PowerBI, Kafka</h4>
-<hr>
+
 
