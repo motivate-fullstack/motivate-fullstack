@@ -3,7 +3,7 @@
 <h2 align="center">⚡A Self-Motivated FullStack Software Engineer⚡</h2>
 
 <p align="center">
-  <img src="https://www.gitkraken.com/wp-content/uploads/2023/01/GitvsGitHub_Logos.png.webp" />
+  <img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg" />
 </p>
 
 <h4>🌱 As a dedicated, collaborative and highly skilled Software Engineer, I have accumulated much experience conducting web application development using the frontend and backend frameworks.</h4>
