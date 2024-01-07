@@ -3,7 +3,7 @@
 <h2 align="center">⚡A Self-Motivated FullStack Software Engineer⚡</h2>
 
 <p align="center">
-  <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
+  <img src="https://www.gitkraken.com/wp-content/uploads/2023/01/GitvsGitHub_Logos.png.webp" />
 </p>
 
 <h4>🌱 As a dedicated, collaborative and highly skilled Software Engineer, I have accumulated much experience conducting web application development using the frontend and backend frameworks.</h4>
